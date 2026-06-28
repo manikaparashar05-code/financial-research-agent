@@ -1,0 +1,5 @@
+yfinance
+chromadb
+requests
+pandas
+numpy
