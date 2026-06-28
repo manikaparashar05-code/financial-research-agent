@@ -1,5 +1,7 @@
 yfinance
-chromadb
 requests
 pandas
 numpy
+chromadb
+beautifulsoup4
+lxml
