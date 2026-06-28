@@ -1,76 +1,143 @@
 # 🤖 Autonomous AI Financial Research Agent
 
-## 📌 Overview
+A Python-based Multi-Agent AI system that performs autonomous financial research by combining financial market data, company news, SEC filing analysis, earnings insights, memory, reasoning, and automated report generation.
 
-The Autonomous AI Financial Research Agent is a Python-based multi-agent system that automates financial research by collecting financial data, analyzing news, reviewing SEC filings, evaluating earnings information, resolving conflicts between data sources, and generating AI-powered research reports.
+---
 
-## 🚀 Features
+# 🚀 Features
 
-* Financial Data Collection
-* News Analysis
-* SEC Filing Analysis
-* Earnings Analysis
-* ReAct Reasoning Loop
-* Conflict Resolution
-* Memory System
-* Report Generation
-* Evaluation Framework
+* 📈 Financial Market Analysis
+* 📰 News Intelligence
+* 📄 SEC Filing Analysis
+* 💼 Earnings Call Review
+* 🧠 Memory Management
+* 🔄 ReAct Reasoning Loop
+* ⚖️ Conflict Resolution
+* 📊 AI Report Generation
+* 📋 Evaluation Framework
 
-## 🛠️ Technologies Used
+---
 
-* Python
+# 🛠 Tech Stack
+
+* Python 3
 * yFinance
 * ChromaDB
 * Requests
 * GitHub
 
+---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 financial-research-agent/
-│── main.py
-│── planner.py
-│── financial_tool.py
-│── news_tool.py
-│── earnings_tool.py
-│── sec_tool.py
-│── report_generator.py
-│── memory.py
-│── long_term_memory.py
-│── evaluation.py
-│── conflict_resolution.py
-│── react_loop.py
-│── synthesis_engine.py
-│── tool_registry.py
-│── research_report.txt
-│── README.md
+│
+├── main.py
+├── planner.py
+├── analysis.py
+├── financial_tool.py
+├── news_tool.py
+├── earnings_tool.py
+├── sec_tool.py
+├── report_generator.py
+├── memory.py
+├── long_term_memory.py
+├── react_loop.py
+├── synthesis_engine.py
+├── conflict_resolution.py
+├── evaluation.py
+├── tool_registry.py
+├── research_report.txt
+├── requirements.txt
+└── README.md
+```
 
+---
 
-## ▶️ Installation
+# ⚙️ Workflow
+
+User Input
+
+↓
+
+Planner Agent
+
+↓
+
+Financial Analysis
+
+↓
+
+News Analysis
+
+↓
+
+SEC Filing Analysis
+
+↓
+
+Earnings Analysis
+
+↓
+
+Memory Retrieval
+
+↓
+
+Conflict Resolution
+
+↓
+
+AI Report Generation
+
+↓
+
+Final Research Report
+
+---
+
+# ▶️ Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
+---
 
-## ▶️ Run Project
+# ▶️ Run
 
 ```bash
 python main.py
 ```
 
+---
 
-## 📄 Output
+# 📄 Output
 
-The system generates a financial research report and stores it in:
+The system automatically generates
 
-`research_report.txt`
+research_report.txt
 
+containing an AI-generated financial research report.
 
-## 👩‍💻 Author
+---
+
+# 🎯 Future Improvements
+
+* AI Chat Interface
+* Flask Web Application
+* Dashboard with Charts
+* Live Stock Tracking
+* PDF Report Generation
+* LLM Integration (GPT/Gemini)
+
+---
+
+# 👩‍💻 Developer
 
 **Manika Parashar**
 
-B.Tech CSE (Artificial Intelligence)
+B.Tech Computer Science (Artificial Intelligence)
+
 JECRC Foundation
