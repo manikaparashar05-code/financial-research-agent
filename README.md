@@ -134,6 +134,9 @@ containing an AI-generated financial research report.
 
 ---
 
+#project demo video-
+https://www.loom.com/share/100f157a58cc4b9badae210637d9c0ce
+
 # 👩‍💻 Developer
 
 **Manika Parashar**
